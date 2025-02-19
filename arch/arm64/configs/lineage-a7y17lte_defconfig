@@ -3445,6 +3445,7 @@ CONFIG_ION=y
 CONFIG_ION_EXYNOS=y
 CONFIG_ION_EXYNOS_STAT_LOG=y
 # CONFIG_ION_EXYNOS_OF is not set
+CONFIG_SAMSUNG_LMKD_DEBUG=y
 
 #
 # Region definitions of exynos-contig-heap
